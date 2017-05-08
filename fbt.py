@@ -14,7 +14,7 @@ lL = [4,34,22,68,9,13,3,5,7,9,2,12,45,923]
 eL = []
 spL = ['name','address','phone number','social security number']
 
-x = 220
+x = [4,34,22,68,9,13,3,5,7,9,2,12,45,923]
 print x
 
 if type(x) == int:
@@ -28,7 +28,6 @@ elif type(x) == str:
         print 'Long sentence.'
     else:
         print "Short sentence."
-
 elif type(x) == list:
     if len(x) >= 10:
         print 'Big list!'
