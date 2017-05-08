@@ -14,6 +14,7 @@ lL = [4,34,22,68,9,13,3,5,7,9,2,12,45,923]
 eL = []
 spL = ['name','address','phone number','social security number']
 
+print 'test!!'
 x = [4,34,22,68,9,13,3,5,7,9,2,12,45,923]
 print x
 
